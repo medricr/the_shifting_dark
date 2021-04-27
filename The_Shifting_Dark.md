@@ -1,9 +1,14 @@
+**The Shifting Dark** is a single-shot adventure module for **Mothership**, a science fiction horror RPG by Tuesday Knight Games.
+
+Below are two different backgrounds to give The Warden a feel for what will be happening in this adventure. The first background sets up the story to contain themes of **body horror**, **transformation**, and **unethical human experimentation**. Make sure to have a discussion with the players about their boundaries, and what they are comfortable with. If anybody expresses concerns about these themes, feel free to use the _2.2: Alternate Background_ as your guideline for what's happening behind the scenes, or make up your own. Remember, this is a horror adventure, but it should not be horrible to play. Be considerate, be safe, and enjoy **The Shifting Dark**
+
+
 # _Section 1: Exposition_
 *From System News Network; Dated March 18th 2102*
+> Anonymous sources from within BioCyte Systems report that the research vessel Hekate has ceased communication with the company's control center on Luna, and is presumed lost. BioCyte, who have courted controversy in the past with their unilateral media blackouts regarding their research projects, have declined to comment. We here at SNN can only hope that this is a minor equipment malfunciton, and that the Hekate and her crew will return safe and sound, whatever thier mission may be.
 
-> Anonymous sources from within BioCyte Systems report that the research vessel Hekate has ceased communication with the company's control center on Luna, and is presumed lost. BioCyte, who have courted controversy in the past with their unilateral media blackouts regarding their research projects, have declined to comment. We here at SNN can only hope that this is a minor equipment malfunciton, and that the Hekate and her crew of 21 will return safe and sound, whatever thier mission may be.
-
-## INCOMING TRANSMISSION
+_Recieved on short wave radio from mission command:_
+> ## INCOMING TRANSMISSION
 > **DATE:** SEPTEMBER 2ND 2106
 >
 > **SUBJECT:** IMMEDIATE REASSIGNMENT TO SALVAGE OPERATION
@@ -23,10 +28,10 @@
 >
 > **NOTES:**
 > TRIPLE PAY UPON RETURN OF BLACK BOX TO BIOCYTE SYSTEMS REPRESENTATIVE ON LUNA
-## TRANSMISSION TERMINATED
+> ## TRANSMISSION TERMINATED
 
 # _Section 2: Warden Information_
-Below are two different backgrounds to give The Warden a feel for what will be happening in this adventure. The first background sets up the story to contain themes of **body horror**, **transformation**, and **unethical human experimentation**. Make sure to have a discussion with the players about their boundaries, and what they are comfortable with. If anybody expresses concerns about these themes, feel free to use the _2.2: Alternate Background_ as your guideline for what's happening behind the scenes, or make up your own. Remember, this is a horror adventure, but it should not be horrible to play. Be considerate, be safe, and enjoy **The Shifting Dark**
+
 ## _2.1: Background_
 > The Hekate is an experiment. BioCyte systems had been developing a bio-weapon which could be used as a siege breaker, even though these kinds of weapons and their use was explicitly outlawed by the System Oversight Committee after the Phobos Colony Massacre. The artificial virus is supposed to re-animate and contiunally evolve dead organic material, turning enemy casualties into weapons. They needed a testing ground, and though the people at BioCyte are certainly monsters, they are not stupid enough to test such a weapon on Earth, or even on Luna. And so, named for the Godess of magic, witchcraft, and necromancy (amont other things), the Hekate bore forth with an unsuspecting crew. The ships computer was programmed to drop the ship into a low power cycle after everyone had been infected, and to return to our system in approximately 5 years time, after it was assumed that all organic matter on the ship would have been consumed or died out, and the ships security feeds and flight logs could be studied. But what would happen if the things on board were still alive? Simple, hire a crew from an outside salvage company through a shell corporation, send them to get the black box back. If that crew doesn't return, simply nuke their craft, along with the Hekate out of existance, and deny everything. What could go wrong?
 
@@ -41,7 +46,7 @@ Use this background if the players are uncomfortable dealing with the themes of 
 
 ## _2.3: The Hekate_
 ### _Upon encountering the ship for the first time:_
-> The Hekate tumbles lazily end over end in an infinate spiral. The sleek, black vessel would be virtually invisible against the blackness of space if not for the running lights, which pulse a pale blue every 30 seconds. The lights inside the craft are off, and your ship's lights glance off of the viewports set into the sides of the hull. You can see that at least one part of the ship has suffered explosive decompression, and as the blown out room tumbles into your view, the inside is illuminated. Everyting is blackened, as if there has been a fire or an explosion, and you can _just_ barely see that the door to this room was welded shut from the inside. The main airlock seems to be in tact, however, and the mechanical overrides appear undamaged by asteroids or other debris. 
+> The Hekate tumbles lazily end over end in an infinite spiral. The sleek, black vessel would be virtually invisible against the blackness of space if not for the running lights, which pulse a pale blue every 30 seconds. The lights inside the craft are off, and your ship's lights glance off of the viewports set into the sides of the hull. You can see that at least one part of the ship has suffered explosive decompression, and as the blown out room tumbles into your view, the inside is illuminated. Everyting is blackened, as if there has been a fire or an explosion, and you can _just_ barely see that the door to this room was welded shut from the inside. The main airlock seems to be in tact, however, and the mechanical overrides appear undamaged by asteroids or other debris. 
 
 **Notes:** 
 - The players may, at this point attempt to scan or probe the ship in some fashion. In this case, refer to one of the secrets and clues entries in _Section 3: Tables & Lists_
@@ -78,6 +83,8 @@ Use this background if the players are uncomfortable dealing with the themes of 
 
 - The logs can be accessed via hacking, physical jailbreaking, or a hand welder. If a hand welder is used, there is a 60% chance that the logs within are illegible. Otherwise, the basic medical observations of Biochemical Compount SRN772846 are present. (Explain the basic expected behavior of the virus to the players)
 
+- The Medbay contains the **Command Keycard**.
+
 ### _Upon entering the Science Lab / Computer Banks for the first time:_
 > The central rotunda of the Hekate lies in ruin. Screens are smashed, cabinets have been torn open with incredible force, parts of the floor seem to be melted away, and bullet holes pepper the inside of the chamber. The floor is criss-crossed with bloody footprints, only some of which appear to be human. Against one wall, there is a large, organic looking pustule. From time to time, it expands and contracts like a lung, sending out a cloud of dark spores. Pinned to the center of the main viewscreen of the chamber with a combination of metal and organics is one of the Androids. It slowly turns its head to the players, and announces in an extremely artifacted voice "Yyouuu d o nottt hahahavvve auttttthorizedd acCesS t0 Thhhhis secTion of t he vEsseLl. PleAse reporporporport to seCcurityy oficceererer GrAAAAAnt".
 
@@ -102,6 +109,8 @@ Use this background if the players are uncomfortable dealing with the themes of 
 
 - If the players restart the reactor, alarm claxons sound, and it becomes clear after an Intellect check that the reactor will destabalize in 2d10+10 hours when running at full power. 
 
+- Engineering contains the **Comms Keycard**.
+
 ### _Upon entering Comms for the first time:_
 > The comms station is the only chamber in the ship which is not bio-locked. It is also mislabeled on the door as "RADIOACTIVE MATERIAL DUMP. AUTHORIZED PERSONEL ONLY". Entering the Comms station, you find it oddly pristine. The door is fully functional even on low power, and will provide a relatively safe place to rest if the players wish it, although an uncomfortable one. The computer stations in the comms center are still functional, and if powered, the screens blink aliveL asking for the password.
 
@@ -111,6 +120,8 @@ Use this background if the players are uncomfortable dealing with the themes of 
 - Three incorrect password entries will sound alarm claxons, drawing enemies (roll on _3.4: Encounter Table_)
 
 - The comms station contains communication logs between the androids onboard the Hekate and BioCyte corporate. Use these logs to answer 3 questions from the players. 
+
+- The comms station contains the **Medbay Keycard**. 
 
 ### _Upon entering Security for the first time:_
 > The first thing that catches your eyes is just how "homey" the security office is on the Hekate. There are posters and photos on the wall. A wooden bird which once bobbed up and down out of a now dry glass of water sits idle on the desk. The security camera screens are dark, but appear to be intact. There is a standard battle dress suit lying face down, toward a gun locker on the wall. It's backplate is melted inward. Rolling the body over reveals a name patch: "S.O. GRANT"
@@ -123,6 +134,9 @@ Use this background if the players are uncomfortable dealing with the themes of 
 - The combination is "KGLW"
 
 - Three (3) unsucessful attempts at unlocking the locker will sound alarm claxons, triggering a **Dangerous** encounter on the encounter table. 
+
+- The lock has an anti-theft device inside it, a small shrapnel charge which detonates if it gets above a certain temperature (like if someone cuts into it with a hand welder). The shrapnel does 6d10 damage, -20% vs. Armor Save.
+
 - The locker contains an unloaded revolver (2 reloads), a Combat Shotgun (1d6 reloads), and 1d4 Grenades
 
 ### _Upon entering Command for the first time:_
@@ -140,10 +154,12 @@ Use this background if the players are uncomfortable dealing with the themes of 
 - The case around the corpses neck contains another crew photo, this one not defaced. It also contains a hastily scribbled note; the only legible part of which reads "god damn them all, I was told". The rest is cut off. 
 
 ### _Upon entering the Cryo Chamber for the first time:_
-> The door to the Cryo Chamber has been welded shut from the inside. Upon breaking through, you see that there is a single survivor in the Cryo Chamber. A young woman, who looks no more than 25. Her curly black hair falls down over her shoulders, and touched the revolver across her chest, the hammer thumbed back and ready to fire. 
+> The door to the Cryo Chamber has been welded shut from the inside. Upon breaking through, you see that there is a single survivor in the Cryo Chamber. A young crew member, who looks no more than 25. their curly black hair falls down over their shoulders, and touches the revolver across their chest, the hammer thumbed back and ready to fire. 
 
 **Notes:**
 - Upon unfreezing (which will take 1d10 hours and a Medical Check), she will panic, and attack a random player. If she can be subdued, she will answer any questions the players have to the best of her ability. She will beg to be taken off of the ship, and insist that the players destroy the Hekate as soon as possible, black box be damned. **She is infected**
+
+- The crew member has the **Security Keycard** in her possession. 
 
 ## _2.4: Win / Fail Conditions:_
 The players can "win" the scenario by:
@@ -184,9 +200,9 @@ The players "lose" the scenario by:
 
 - The creatures as they are now are not entirely mindless, but certainly are insane. Any attempt at communication will only be successful with Griggs, who can be found in the command module of the ship.
 
-- She is consumed by a need to punish those at BioCyte for their hubris. Think Frankensteins monster.
+- The Virus is not deadly, but will turn dead characters in a matter of hours. Players can choose to come to The Warden's side of the screen and play against the rest of the party if they wish. 
 
-- Griggs's quarters contain a picture of her with the rest of the crew. Presenting this image to Griggs will effectively stun her for one round as her mind reels. 
+- Griggs's bunk in the living quarters contain a picture of her with the rest of the crew. Presenting this image to Griggs will effectively stun her for one round as her mind reels. 
 
 ### _3.1.2: Alternate Secrets & Clues_
 - Hekate is the Greek Godess of magic, witchcraft, night, the moon, ghosts, and necromancy.
@@ -218,7 +234,7 @@ The players "lose" the scenario by:
 ### _3.2: Rumours about BioCyte_
 Whether or not these rumours are true is up to either the players, or The Warden. 
 
-Result | I heard that they...
+1d10 | I heard that they...
 --- | ---
 1 | Are funded by the Illuminati 
 2 | Do virus and bio-weapon research.  
@@ -272,9 +288,9 @@ Either choose the difficulty you would like, or roll on the table to see what po
 ### _3.5: Monsters_
 1d10 | Monster Name | Description | Monster Stats | Attacks | Special
 ------ | ------ | ------ | ------ | ------ | ------
-1 | Griggs / The Matriarch | Towering over the players at almost 9 feet tall, with a hard, gray, chitinous skin and glowing ambeer eyes which shine like searchlights out of her gaunt face, this creature is a formidible foe. | Combat:70% <br/>Speed:40% <br/>Instinct:40% <br/>Hits:6(45) | Kick:3d10 <br/>Hammerfist:4d10 <br/>Bite:3d10| _Horrifying Visage:_ Upon first seeing Griggs, Fear Save or 3 stress. <br/>_Imposing Frame:_ Upon seeing Griggs standing at her full height, Panic Save. <br/>_Berserker(optional):_ Griggs flies into a rage if she hears the name "BioCyte", adding a die to all of her attacks. <br/>_Tall Knives:_ Griggs's teeth are -10% vs. Armor Save.
-2 | Spitter | short and squat, this particular creature has developed a bio-organic acid which eats through armour and other suits. | Combat:45% <br/>Speed:60% <br/>Instinct:30% <br/>Hits:(3)20 | Acid Spit3d10 |_Bio Weapon:_ -1d3 points of armor effectiveness on successful hit. Suits which lose all of their armor this way no longer protect against the atmosphere. 
-3 | Reaver | Stocky and muscular, this creatures hands have hardened into chitinous blades, which drag behind it as it walks. | Combat:50% <br/>Speed:30% <br/>Instinct:40% <br/>Hits: (2)40 | Rend:3d10 | _Bladeguard:_ +15% to Armor Save <br/>_Grim Mockery:_ The creature causes dread in human characters. Upon first encountering this creature, Fear Save or 1 stress. <br/>_Symbiote:_ These creatures travel in pairs. If one of them is slain, the other goes berserk, adding 10% to all attributes until it is slain. 
-4-7 | Shambler | Pale and impossibly thin, this creature has evolved large eyes to help it see in the pitch blackness which bathes many of the Hekate's corners and corridors. | Combat:30% <br/>Speed:30% <br/>Instinct:10% <br/>Hits:2(20) | Swipe:1d10 | _Pack Hunters:_ These creatures always appear in mobs of 1d4+2, and four follow Griggs at all times. <br/>_Grim Mockery:_ The creature causes dread in human characters. Fear Save or 1 stress.
-8-10 | Wrangler | Almost all thick ropey arms, this creature incapacitates its targets by entangling them and gnawing on them while they are defenseless with the large mouth on its stomach. | Combat:45% <br/>Speed:50% <br/> Instinct:40% <br/>Hits:(2)40 | Squeeze:2d10 <br/> Gnaw:4d10  | _Grim Mockery:_ The creature causes dread in human characters. Upon first encountering this creature, Fear Save or 1 stress. <br/>_Lasso:_ The creature extends its ropey arms, wrapping them around the player. Body Save or be entangled and drawn 10m toward the creature. <br/>_Cruel Cackle:_ The creature hoots and laughs as it drags characters toward it. Sanity Save when hearing the cackle or 1d2 Stress.
+1-5 | Shambler | Pale and impossibly thin, this creature has evolved large eyes to help it see in the pitch blackness which bathes many of the Hekate's corners and corridors. | Combat:30% <br/>Speed:30% <br/>Instinct:10% <br/>Hits:2(20) | Swipe:1d10 | _Pack Hunters:_ These creatures always appear in mobs of 1d4+2, and four follow Griggs at all times. <br/>_Grim Mockery:_ The creature causes dread in human characters. Fear Save or 1 stress.
+6-7 | Wrangler | Almost all thick ropey arms, this creature incapacitates its targets by entangling them and gnawing on them while they are defenseless with the large mouth on its stomach. | Combat:45% <br/>Speed:50% <br/> Instinct:40% <br/>Hits:(2)40 | Squeeze:2d10 <br/> Gnaw:4d10  | _Grim Mockery:_ The creature causes dread in human characters. Upon first encountering this creature, Fear Save or 1 stress. <br/>_Lasso:_ The creature extends its ropey arms, wrapping them around the player. Body Save or be entangled and drawn 10m toward the creature. <br/>_Cruel Cackle:_ The creature hoots and laughs as it drags characters toward it. Sanity Save when hearing the cackle or 1d2 Stress.
+8| Spitter | short and squat, this particular creature has developed a bio-organic acid which eats through armour and other suits. | Combat:45% <br/>Speed:60% <br/>Instinct:30% <br/>Hits:(3)20 | Acid Spit3d10 |_Bio Weapon:_ -1d3 points of armor effectiveness on successful hit. Suits which lose all of their armor this way no longer protect against the atmosphere. 
+9 | Reaver | Stocky and muscular, this creatures hands have hardened into chitinous blades, which drag behind it as it walks. | Combat:50% <br/>Speed:30% <br/>Instinct:40% <br/>Hits: (2)40 | Rend:3d10 | _Bladeguard:_ +15% to Armor Save <br/>_Grim Mockery:_ The creature causes dread in human characters. Upon first encountering this creature, Fear Save or 1 stress. <br/>_Symbiote:_ These creatures travel in pairs. If one of them is slain, the other goes berserk, adding 10% to all attributes until it is slain. 
+10 | Griggs / The Matriarch | Towering over the players at almost 9 feet tall, with a hard, gray, chitinous skin and glowing ambeer eyes which shine like searchlights out of her gaunt face, this creature is a formidible foe. | Combat:70% <br/>Speed:40% <br/>Instinct:40% <br/>Hits:6(45) | Kick:3d10 <br/>Hammerfist:4d10 <br/>Bite:3d10| _Horrifying Visage:_ Upon first seeing Griggs, Sanity Save or 3 stress. <br/>_Imposing Frame:_ Upon seeing Griggs standing at her full height, Panic Save. <br/>_Berserker(optional):_ Griggs flies into a rage if she hears the name "BioCyte", adding a die to all of her attacks. <br/>_Tall Knives:_ Griggs's teeth are -10% vs. Armor Save.
 
