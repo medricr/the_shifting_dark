@@ -109,6 +109,8 @@ Use this background if the players are uncomfortable dealing with the themes of 
 
 - If the players restart the reactor, alarm claxons sound, and it becomes clear after an Intellect check that the reactor will destabalize in 2d10+10 hours when running at full power. 
 
+- There is a **Hand Welder** on the floor in the Engineering bay.
+
 - Engineering contains the **Comms Keycard**.
 
 ### _Upon entering Comms for the first time:_
@@ -129,7 +131,7 @@ Use this background if the players are uncomfortable dealing with the themes of 
 **Notes:**
 - The gun locker is locked by an alphanumeric lock.
 
-- There are several band posters on the wall, all from old terran concerts. There are several for the band "King Gizzard and the Lizard Wizard"
+- There are several band posters on the wall, all from old terran concerts. There are several for the band "King Gizzard and the Lizard Wizard". Officer Grant was apparently a fan of classical music.
 
 - The combination is "KGLW"
 
@@ -237,14 +239,14 @@ Whether or not these rumours are true is up to either the players, or The Warden
 1d10 | I heard that they...
 --- | ---
 1 | Are funded by the Illuminati 
-2 | Do virus and bio-weapon research.  
-3 | Are involved in psyonics research 
-4 | Have secret labs on Mars 
+2 | Do illicit virus and bio-weapon research.  
+3 | Are involved in psyonics research, and are making progress.
+4 | Are working on technology that will make vat-grown humans possible. 
 5 | Have a secret underground moon base that even the System Oversight Committe doesn't know about 
-6 | Have secret labs on Jupiter 
-7 | Are responsible for the earthquake that flooded the California Central Valley in '77 
-8 | Are developing androids that are indistinguishable from humans 
-9 | Have already had contact with ETs
+6 | Have secret black-site labs on Jupiter, floating in the gas giant's atmosphere.
+7 | Are responsible for the earthquake that flooded the California Central Valley in '77, killing millions.
+8 | Are developing androids that are indistinguishable from humans, some of which are already in circulation. 
+9 | Have already had contact with ETs, and have incorporated their technology into theirs.
 10 | Have quantified the soul in scientific terms, and are experimenting with sepeating it from the body
 
 ### _3.3.1: Significant Ships Log Entries_
@@ -294,3 +296,6 @@ Either choose the difficulty you would like, or roll on the table to see what po
 9 | Reaver | Stocky and muscular, this creatures hands have hardened into chitinous blades, which drag behind it as it walks. | Combat:50% <br/>Speed:30% <br/>Instinct:40% <br/>Hits: (2)40 | Rend:3d10 | _Bladeguard:_ +15% to Armor Save <br/>_Grim Mockery:_ The creature causes dread in human characters. Upon first encountering this creature, Fear Save or 1 stress. <br/>_Symbiote:_ These creatures travel in pairs. If one of them is slain, the other goes berserk, adding 10% to all attributes until it is slain. 
 10 | Griggs / The Matriarch | Towering over the players at almost 9 feet tall, with a hard, gray, chitinous skin and glowing ambeer eyes which shine like searchlights out of her gaunt face, this creature is a formidible foe. | Combat:70% <br/>Speed:40% <br/>Instinct:40% <br/>Hits:6(45) | Kick:3d10 <br/>Hammerfist:4d10 <br/>Bite:3d10| _Horrifying Visage:_ Upon first seeing Griggs, Sanity Save or 3 stress. <br/>_Imposing Frame:_ Upon seeing Griggs standing at her full height, Panic Save. <br/>_Berserker(optional):_ Griggs flies into a rage if she hears the name "BioCyte", adding a die to all of her attacks. <br/>_Tall Knives:_ Griggs's teeth are -10% vs. Armor Save.
 
+
+_The Shifting Dark: V.0.1 03.05.21_
+_Written by Medric Riley_
