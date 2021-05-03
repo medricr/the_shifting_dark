@@ -1,0 +1,13 @@
+{
+  "name": "the_shifting_dark",
+  "version": "1.0.0",
+  "description": "A single shot adventure module for the Mothership RPG.",
+  "main": "server.js",
+  "repository": "git@github.com:medricr/the_shifting_dark.git",
+  "author": "medricr <medricr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "cd client && yarn serve"
+  },
+  "private": false
+}
