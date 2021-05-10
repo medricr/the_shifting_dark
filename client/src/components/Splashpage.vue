@@ -12,6 +12,7 @@
 <script>
 
 import AdventureSection from './AdventureSection.vue';
+// import adv_info from '../assets/TheShiftingDark.json';
 
 export default {
     name: "Splashpage",

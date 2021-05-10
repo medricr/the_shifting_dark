@@ -12,7 +12,9 @@ export default {
     name: 'AdventureSection',
     props: {
         header: String,
-        body: String
+        body: String,
+        subNumber: Number,
+        subArray: Array
     }
 }
 </script>
